@@ -5,6 +5,4 @@
 I used Taylor series for calculating the sine and cosine functions. Other functions can be found with these two.
 Link: https://en.wikipedia.org/wiki/Taylor_series#Trigonometric_functions
 
-$sinx = \sum_{n=0}^{\infty} \frac{(-1)^{n}x^{2n+1}}{(2n+1)!}$
-
-$cosx = \sum_{n=0}^{\infty} \frac{(-1)^{n}x^{2n}}{(2n)!}$
+![alt tag](https://raw.githubusercontent.com/ahmetozrahat25/c-trigonometry/master/equations/1.jpg)
